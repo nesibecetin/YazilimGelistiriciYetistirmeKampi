@@ -9,6 +9,7 @@ namespace MyDictionary
             MyDictionary < string > isimler = new MyDictionary<string>();
             isimler.Add("Nesibe");
             isimler.Add("Kübra");
+            isimler.Add("Hayrunnisa");
             
         }
     }
