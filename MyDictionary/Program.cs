@@ -10,6 +10,9 @@ namespace MyDictionary
             isimler.Add("Nesibe");
             isimler.Add("Kübra");
             isimler.Add("Hayrunnisa");
+            isimler.Add("Nesibe");
+            isimler.Add("Kübra");
+            isimler.Add("Hayrunnisa");
             
         }
     }
